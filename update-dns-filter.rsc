@@ -67,4 +67,3 @@ add address=127.0.0.1 name=www.wolframalpha.com
 add address=127.0.0.1 name=www.baidu.com
 add address=127.0.0.1 name=pages.lazada.co.id
 add address=127.0.0.1 name=clkuk.tradedoubler.com
-/ip dns cache flush
