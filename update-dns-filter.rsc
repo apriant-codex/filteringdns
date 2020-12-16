@@ -9506,8 +9506,6 @@ add address=127.0.0.1 name=performancerevenues.com
 add address=127.0.0.1 name=performancing.com
 add address=127.0.0.1 name=personagraph.com
 add address=127.0.0.1 name=petiteumbrella.com
-add address=127.0.0.1 name=pgl.example.com
-add address=127.0.0.1 name=pgl.example #0101
 add address=127.0.0.1 name=pgmediaserve.com
 add address=127.0.0.1 name=pgpartner.com
 add address=127.0.0.1 name=pheedo.com
